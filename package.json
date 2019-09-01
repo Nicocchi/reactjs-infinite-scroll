@@ -1,0 +1,31 @@
+{
+  "name": "reactjs-infinite-scroll",
+  "version": "1.0.0",
+  "description": "Unsplash Infinite Scroll with ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicocchi/reactjs-infinite-scroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicocchi/reactjs-infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/Nicocchi/reactjs-infinite-scroll#readme",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "concurrently": "^4.1.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "universal-config": "^0.3.0",
+    "unsplash-js": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
