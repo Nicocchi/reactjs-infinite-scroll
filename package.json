@@ -25,7 +25,7 @@
     "concurrently": "^4.1.2",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "universal-config": "^0.3.0",
     "unsplash-js": "^5.0.0"
   },
